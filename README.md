@@ -19,3 +19,18 @@ The speech assistant shall ask a specific set of questions ->
 5. What is the current condition of your location? (Fire spread, building structure etc.) 
 
 Then the user will answer all these questions by voice, which shall be converted to text, processed for keywords and this data will be provided to the rescue workers in a structured manner to facilitate rescue operations.
+
+
+## Datasets and sensors used
+There is a requirement of speech keyword classification in the version of this app. This can be done by two ways: 
+
+1. Speech to text classification -> Text Keyword Classification
+2. Speech Keyword Classification
+
+There has been a lot of research going on which classification is better. Still, it is difficult to decide which one to use. Considering both of these methods as an option, here are some datasets and sensors that would be used for speech keyword classification:
+
+**For the first approach:**
+1. (Speech Keyword Dataset)[https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html]
+2. (Phonetics dataset)[http://archive.phonetics.ucla.edu/]
+
+Similar datasets are required for the second dataset. Also, the sensors that would be used are GPS, sppech microphone, speaker,etc. 
