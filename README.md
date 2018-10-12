@@ -11,10 +11,10 @@ The home screen of the app shall have 2 options - "I am a rescue worker" and "I 
 
 **Reason for speech** - As mentioned before, if the phone is a few metres away, speech is the only way of getting information. Also, typing might be difficult in that mental state and speaking is more convenient in such a situation.
 
-The speech assistant shall ask a specific set of questions - >
-1. >
-2. >
-3. >
-4. >
-5. >
+The speech assistant shall ask a specific set of questions ->
+1. What type of calamity are you facing?>
+2. What is your location? (Building name, floor No., Room type - kitchen, bedroom etc.)>
+3. Are you able to move?>
+4. Is there anyone else along with you?>
+5. What is the current condition of your location? (Fire spread, building structure etc.)>
 Then the user will answer all these questions by voice, which shall be converted to text, processed for keywords and this data will be provided to the rescue workers in a structured manner to facilitate rescue operations.
