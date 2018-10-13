@@ -33,4 +33,4 @@ There has been a lot of research going on which classification is better. Still,
 1. (Speech Keyword Dataset)[https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html]
 2. (Phonetics dataset)[http://archive.phonetics.ucla.edu/]
 
-Similar datasets are required for the second dataset. Also, the sensors that would be used are GPS, sppech microphone, speaker,etc. 
+Similar datasets are required for the second dataset. Also, the sensors that would be used are GPS, speech microphone, speaker,etc. 
